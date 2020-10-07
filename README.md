@@ -9,7 +9,7 @@ c. Создайте класс CatFactory - этот класс будет со�
 ```
 public static function createBlack8YearsOldCat($name)
 {
-return new Cat($name, 'black', 8);
+  return new Cat($name, 'black', 8);
 }
 ```
 
